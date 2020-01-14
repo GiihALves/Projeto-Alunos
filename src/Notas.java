@@ -3,6 +3,7 @@ public class Notas {
         float nota1 = 4.6f;
         float nota2 = 6.1f;
         float nota3 = 1.9f;
+        float nota4 = 2.5f
         double media = (nota1 + nota2 + nota3)/2;
 
         if (media >= 6.5){
